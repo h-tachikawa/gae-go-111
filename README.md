@@ -6,7 +6,7 @@ dev_appserver.py .
 
 ## Deploy
 ```
-gcloud app deploy``
+gcloud app deploy
 ```
 
 ## 参考
